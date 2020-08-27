@@ -1,10 +1,8 @@
 ## WaddleBot
 
-You can use the [editor on GitHub](https://github.com/superhylia/waddlebot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### WaddleBot is a custom modmail and misc. use bot developed by superhylia#3758 for the Waddling Gaming Discord server. It's built off of [kyb3r's incredible modmail bot](https://github.com/kyb3r/modmail), with some customizations, changes, and preferences made within the server configs to make it better for our tastes. I plan to develop plugins for both this bot and other bots using kyb3r's repo for their own bots once I get comfortable enough with discord.py and Python. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+## Features
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -28,10 +26,5 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/superhylia/waddlebot/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Support the original devs.
+As I said earlier, this is merely a fork of an already existing repository by kyb3r and other really smart members of the community, so if you'd like to help out and contribute to their Patreon, please be my guest and check out the repo page [here](https://github.com/kyb3r/modmail). If you want to help me out, you can join the Waddling Gaming Discord server at https://discord.gg/ddee and follow me on Twitter at https://twitter.com/superhylia, it really means a lot. Have a good one!
