@@ -1,6 +1,8 @@
 ## WaddleBot
 
-### WaddleBot is a custom modmail and misc. use bot developed by superhylia#3758 for the Waddling Gaming Discord server. It's built off of [kyb3r's incredible modmail bot](https://github.com/kyb3r/modmail), with some customizations, changes, and preferences made within the server configs to make it better for our tastes. I plan to develop plugins for both this bot and other bots using kyb3r's repo for their own bots once I get comfortable enough with discord.py and Python. 
+### WaddleBot is a custom modmail and miscelanneous use bot developed by superhylia#3758 for the Waddling Gaming Discord server. 
+
+It's built off of [kyb3r's incredible modmail bot](https://github.com/kyb3r/modmail), with some customizations, changes, and preferences made within the server configs to make it better for our tastes. I plan to develop plugins for both this bot and other bots using kyb3r's repo for their own bots once I get comfortable enough with discord.py and Python. 
 
 ## Features
 
